@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=bluey
+GenericName=Bluetooth Manager
+Comment=Keyboard-driven Bluetooth manager for the terminal
+Exec=bluey
+Terminal=true
+Categories=System;Settings;HardwareSettings;ConsoleOnly;
+Keywords=bluetooth;tui;
