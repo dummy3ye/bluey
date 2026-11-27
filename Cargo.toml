@@ -15,7 +15,7 @@ categories = ["command-line-utilities", "hardware-support"]
 anyhow = "1"
 bluer = { version = "0.17", features = ["bluetoothd"] }
 futures = "0.3"
-ratatui = "0.29"
+ratatui = "0.30"
 serde = { version = "1.0.229", features = ["derive"] }
 tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time"] }
 toml = "1.0.7"
